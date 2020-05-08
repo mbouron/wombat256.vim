@@ -59,14 +59,14 @@ hi DiffChange					ctermbg=237										guibg=#382a37
 "hi PmenuThumb
 "hi Question
 "hi Scrollbar
-"hi SignColumn
+hi SignColumn	ctermfg=241		ctermbg=232		cterm=none		guifg=#857b6f	guibg=#080808	gui=none
 "hi SpellBad
 "hi SpellCap
 "hi SpellLocal
 "hi SpellRare
-"hi TabLine
-"hi TabLineFill
-"hi TabLineSel
+hi TabLine		ctermfg=252		ctermbg=234		cterm=none		guifg=#e3e0d7	guibg=#242424	gui=none
+hi TabLineFill	ctermfg=241		ctermbg=232		cterm=none		guifg=#857b6f	guibg=#080808	gui=none
+hi TabLineSel	ctermfg=232		ctermbg=192						guifg=#080808	guibg=#cae982
 "hi Tooltip
 "hi User1
 "hi User9
